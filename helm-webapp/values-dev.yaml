@@ -1,6 +1,6 @@
 
-replicas: 4
+replicas: 3
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is on the DEV environment depolyed with helm!'
+    CUSTOM_HEADER: 'This is on the DEV environment depolyed with helmchart!'
